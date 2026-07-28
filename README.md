@@ -16,7 +16,7 @@ No source code here (this repo is a showcase, not the codebase) — but each wri
 
 | Project | What it is | Implementation write-up |
 |---|---|---|
-| **Biz-Pilot** | AI-powered Repair Center ERP SaaS | [docs/biz-pilot.md](docs/biz-pilot.md) |
+| **Core-Pilot** | AI-powered Repair Center ERP SaaS | [docs/core-pilot.md](docs/core-pilot.md) |
 | **VPN Automation Platform** | Global Infrastructure Control Plane | [docs/vpn-automation-platform.md](docs/vpn-automation-platform.md) |
 | **AVT-Manage** | AI bot for Avito lead capture | [docs/avt-manage.md](docs/avt-manage.md) |
 | **AI Engineering System** | AI-first development workflow | [docs/ai-engineering-system.md](docs/ai-engineering-system.md) |

@@ -1,4 +1,4 @@
-# Biz-Pilot — AI-powered Repair Center ERP SaaS
+# Core-Pilot — AI-powered Repair Center ERP SaaS
 
 ## Problem
 
