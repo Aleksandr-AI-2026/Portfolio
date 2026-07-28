@@ -10,6 +10,17 @@ Personal portfolio for an **AI Creative Developer / Vibe Coder** — built to sh
 - **AI Workflow** — the repeatable loop from idea → prompt engineering → AI generation → human review → iteration → production.
 - **AI Experiments** — smaller explorations: LLM agents, automation workflows, AI-generated interfaces, rapid prototyping.
 
+## Projects — how each one is actually built
+
+No source code here (this repo is a showcase, not the codebase) — but each write-up below goes past the pitch and into the real architecture and implementation decisions behind the project.
+
+| Project | What it is | Implementation write-up |
+|---|---|---|
+| **Biz-Pilot** | AI-powered Repair Center ERP SaaS | [docs/biz-pilot.md](docs/biz-pilot.md) |
+| **VPN Automation Platform** | Global Infrastructure Control Plane | [docs/vpn-automation-platform.md](docs/vpn-automation-platform.md) |
+| **AVT-Manage** | AI bot for Avito lead capture | [docs/avt-manage.md](docs/avt-manage.md) |
+| **AI Engineering System** | AI-first development workflow | [docs/ai-engineering-system.md](docs/ai-engineering-system.md) |
+
 ## Stack
 
 - **Next.js** (App Router) + **TypeScript**
